@@ -4,9 +4,7 @@
 ![alt text](image.png)
 
 <table>
-    <tr>
-        <td colspan="2"><h1 style = "text-align:center;">Github Commands<h1></td>
-    </tr>
+        <h2 style = "width: auto;text-align: center;">Github Commands</h2>
     <tr>
         <td><code>git pull</code></td>
         <td>Pull Latest Version Of a File</td>
