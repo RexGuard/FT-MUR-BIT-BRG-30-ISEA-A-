@@ -5,7 +5,7 @@
 
 <table>
     <tr>
-        <td colspan="2"><h1 style = "text-align:center;">Github Commands</td>
+        <td colspan="2"><h1 style = "text-align:center;">Github Commands<h1></td>
     </tr>
     <tr>
         <td><code>git pull</code></td>
