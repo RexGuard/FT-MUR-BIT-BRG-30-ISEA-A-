@@ -1,0 +1,79 @@
+# Session 1a
+![alt text](image.png)
+
+<table>
+        <h2 style = "width: auto;text-align: center;">Github Commands</h2>
+    <tr>
+        <td><code>git pull</code></td>
+        <td>Pull Latest Version Of a File</td>
+    </tr>
+    <tr>
+        <td><code>git stage &ltFilename&gt</code></td>
+        <td>Select Specific file to update</td>
+    </tr>
+    <tr>
+        <td><code>git commit -m &ltMessage here&gt</code></td>
+        <td>Saving in local repository history</td>
+    </tr>
+    <tr>
+        <td><code>git push</code></td>
+        <td>Make changes public</td>
+    </tr>
+</table>
+
+# Session 1b
+## Getting Into Virtual Machine
+|Commands||
+|:---|----|
+|`(IP/IF)CONFIG`|to list device network properties|
+|`ps -e`|to list all running processes|
+|`ssh`|to initiate login to other machine via ssh|
+
+![alt text](image-1.png)
+
+## Pre-setup commands
+|Commands||
+|:---|:---|
+|`apt update`|Refreshes System Packages list|
+|`apt upgrade`|Download and Install new update for all existing software in system|
+
+![alt text](image-2.png)
+
+## Installing Apache
+|Commands||
+|:---|----|
+|`apt install apache2`|Installs Apache2|
+|`ufw enable`|Enables firewall|
+|`ufw allow 80/tcp`|Open Port 80*I(TCP)|
+
+## Checking File Permission
+
+|Commands||
+|:---|----|
+|`ls -l`|List Files & Folders in detailed format|
+
+![alt text](image-3.png)
+
+## Find & Grep
+
+|Commands||
+|:---|----|
+|`find <Starting Path> <parameter>`|find files|
+
+|Parameters||
+|:---|----|
+|`-type f`|find file|
+|`-type d`|find directory|
+|`-name <name>`|to indicate the target name|
+
+![alt text](image-4.png)
+
+|Commands||
+|:---|----|
+|`grep <parameter> "target" <path>`|find text pattern and outputs them|
+
+|Parameters||
+|:---|----|
+|`-R or -r`|recursive search|
+
+![alt text](image-5.png)
