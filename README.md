@@ -2,6 +2,12 @@
 
 ## Session 1a
 ![alt text](image.png)
+|||
+|---|---|
+|``git pull``| Pull Latest Version Of a File|
+|``git stage <Filename>``|Select Specific file to update|
+|``git commit -m <Message here>``|Saving in local repository history|
+|``git push``|Make changes public|
 ## Session 1b
 
 ## Session 2a
