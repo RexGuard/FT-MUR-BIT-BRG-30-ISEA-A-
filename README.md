@@ -1,7 +1,7 @@
 # FT-MUR-BIT-BRG-30-ISEA-A-Murdoch Bridging
 
 ## Session 1a
-
+![alt text](image.png)
 ## Session 1b
 
 ## Session 2a
