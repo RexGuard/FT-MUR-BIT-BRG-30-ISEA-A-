@@ -6,7 +6,7 @@ Resolving DNS to find the random number
 |:---|----|
 |`nslookup`|Look up a DNS to find domain name or ip address|
 
-![alt text](image-23.png)
+![alt text](images/image-23.png)
 
 Securing Apache Web with Certbot, http website are not safe because it does not encrypt its transaction. HTTPS, uses SSL / TLS to secure their transactions. (AES)
 
@@ -14,9 +14,9 @@ Securing Apache Web with Certbot, http website are not safe because it does not 
 |:---|----|
 |`certbot --apache`|Create or Configure Certificate for Apache web server|
 
-![alt text](image-25.png)
+![alt text](images/image-25.png)
 
-![alt text](image-24.png)
+![alt text](images/image-24.png)
 
 ## Session 3b
 Backup Automation To External Server. 
@@ -30,8 +30,8 @@ Backup Automation To External Server.
 |`date`|Assign the current date|
 
 
-![alt text](image-26.png)
+![alt text](images/image-26.png)
 
 Output:
 
-![alt text](image-27.png)
+![alt text](images/image-27.png)

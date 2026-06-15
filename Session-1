@@ -1,5 +1,5 @@
 # Session 1a
-![alt text](image.png)
+![alt text](images/image.png)
 
 <table>
         <h2 style = "width: auto;text-align: center;">Github Commands</h2>
@@ -29,7 +29,7 @@
 |`ps -e`|to list all running processes|
 |`ssh`|to initiate login to other machine via ssh|
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ## Pre-setup commands
 |Commands||
@@ -37,7 +37,7 @@
 |`apt update`|Refreshes System Packages list|
 |`apt upgrade`|Download and Install new update for all existing software in system|
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ## Installing Apache
 |Commands||
@@ -52,7 +52,7 @@
 |:---|----|
 |`ls -l`|List Files & Folders in detailed format|
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ## Find & Grep
 
@@ -66,7 +66,7 @@
 |`-type d`|find directory|
 |`-name <name>`|to indicate the target name|
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 |Commands||
 |:---|----|
@@ -76,4 +76,4 @@
 |:---|----|
 |`-R or -r`|recursive search|
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)

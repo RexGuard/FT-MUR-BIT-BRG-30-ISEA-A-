@@ -8,15 +8,15 @@ Rsync Lab
 Syning VPS files to Local Folder
 Vps Folder
 
-![alt text](image-29.png)
+![alt text](images/image-29.png)
 
 run Rsync command from Local Computer
 
-![alt text](image-30.png)
+![alt text](images/image-30.png)
 
 Rsync Copies file to local folder
 
-![alt text](image-31.png)
+![alt text](images/image-31.png)
 
 - Difference between scp / cp
 If rsync found a similar duplicate file, it will compare between them and only transfer the data byte/block that changed.
